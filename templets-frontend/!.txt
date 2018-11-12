@@ -1,0 +1,1 @@
+all folders are copied to public/templets directory
